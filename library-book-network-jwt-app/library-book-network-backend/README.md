@@ -1,4 +1,5 @@
 # Library Book Network - Backend
+I'll migrate this to keycloak soon.
 
 ## Overview
 
@@ -6,14 +7,15 @@ The backend of the Library Book Network project is responsible for handling all 
 
 ## Technologies Used
 
-Spring Boot 3: A powerful framework for building Java-based applications.
-Spring Security 6: Provides authentication and authorization mechanisms for securing the application.
-JWT Token Authentication: Ensures secure communication between the client and server.
-Spring Data JPA: Simplifies data access and persistence using the Java Persistence API.
-JSR-303 and Spring Validation: Enables validation of objects based on annotations.
-OpenAPI and Swagger UI Documentation: Generates documentation for the API endpoints.
-Docker: Facilitates containerization of the backend application for deployment.
-Setup Instructions
+- Spring Boot 3: A powerful framework for building Java-based applications.
+- Spring Security 6: Provides authentication and authorization mechanisms for securing the application.
+- JWT Token Authentication: Ensures secure communication between the client and server.
+- Spring Data JPA: Simplifies data access and persistence using the Java Persistence API.
+- JSR-303 and Spring Validation: Enables validation of objects based on annotations.
+- OpenAPI and Swagger UI Documentation: Generates documentation for the API endpoints.
+- Docker: Facilitates containerization of the backend application for deployment.
+
+## Setup Instructions
 To set up the backend of the Library Book Network project, follow these steps:
 
 ## How to run backend:
