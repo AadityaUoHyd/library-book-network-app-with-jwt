@@ -16,8 +16,8 @@ Archieve books will have red color border-line and such books are not shown publ
 
 To get started with the Library Book Network project, follow the setup instructions in the respective directories: <br>
 
-- [Backend Setup Instructions](/library-book-network-backend/README.md)
-- [Frontend Setup Instructions](/library-book-network-frontend/README.md)
+- [Backend Setup Instructions](/library-book-network-jwt-app/library-book-network-backend/README.md)
+- [Frontend Setup Instructions](/library-book-network-jwt-app/library-book-network-frontend/README.md)
 <br><br>
 OR
 <br><br>
