@@ -24,7 +24,7 @@ OR
 - First run the docker-desktop, then run the docker-compose file.
 - Cross check your postgres db and mail-dev containers. Now run spring boot backend.
 - First do `npm install` for downloading dependencies in node_modules to frontend. Now run your frontend using `npm start`.
-- Go to browser and hot => http://localhost:4200
+- Go to browser and hot => http://localhost:4200/login
 
 ## Table of Contents
 
