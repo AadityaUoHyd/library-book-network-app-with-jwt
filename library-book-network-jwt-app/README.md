@@ -4,13 +4,13 @@ quiet study areas, collaborative zones, etc. Using this app, one can share their
 borrow books from them as well. First book owner has to upload his books details (book- title, cover, Author name, ISBN, synopsis)
 in LBN app. App will advertise so and so physical copy of book is with XYZ person and he/she wants to share it.
 Any person who is interested to read that book can see that advertise (If he has account in that app) and borrow online first.
-Then he will meet that person indiviadually, and grab physical copy of that book with mutual consent of returning date. 
-App will take care of facilatating book-sharing, and tracking. When he returns the book, he need to do it online in app too, 
+Then he will meet that person individually, and grab physical copy of that book with mutual consent of returning date. 
+App will take care of facilitating book-sharing, and tracking. When he returns the book, he need to do it online in app too, 
 and the owner of the book has to approve that he received the book. Once borrower returns the book and it got approved, 
 the same book will be available for re-sharing again. One can also give feedback and rating for book he borrowed and read.
 
 The books with green color border-line means they are sharable. When owner don't want to share his book, he'll archive it. 
-Archieve books will have red color border-line and such books are not shown publicly. Only owner can see it.
+Archive books will have red color border-line and such books are not shown publicly. Only owner can see it.
 
 ## How to run this project (Get Started)
 
